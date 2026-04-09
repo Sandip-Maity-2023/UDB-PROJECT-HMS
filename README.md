@@ -18,8 +18,6 @@ The application follows a three-layer architecture:
 * Built with HTML5, CSS3, and Vanilla JavaScript
 * No heavy frameworks for lightweight performance
 * Fetch API for asynchronous REST communication
-* Dynamic DOM rendering based on JSON responses
-* Client-side input validation
 
 ### Backend & Data Layer
 
@@ -34,7 +32,6 @@ The application follows a three-layer architecture:
 * User authentication (Sign up / Sign in)
 * Secure password handling
 * REST API based communication
-* Modular backend structure
 * Responsive frontend UI
 * Scalable database schema
 
@@ -46,7 +43,7 @@ The application follows a three-layer architecture:
 * Embedded data for frequently accessed records
 * Referenced data for independent modules
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 project/
@@ -67,9 +64,6 @@ project/
 │
 └── README.md
 ```
-
-## 🚀 Getting Started
-
 ### 1. Clone Repository
 
 ```
@@ -104,5 +98,12 @@ ODM: Mongoose
 
 ## Authors
 
+Arindam Jana 
+UG/02/BTCSECSF/2023/002
+Sanskriti Sharma 
+UG/SOET/165/23/081
+Sazidur Rahaman
+UG/SOET/165/24/001
 Sandip Maity
+UG/SOET/165/23/082
 
