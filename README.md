@@ -1,4 +1,5 @@
 # UDB-PROJECT-HMS
+https://unstructured-database-lab-3c89.vercel.app/
 Hospital Management System
 
 # Project Title
@@ -15,7 +16,7 @@ The application follows a three-layer architecture:
 
 ### Frontend Layer
 
-* Built with HTML5, CSS3, and Vanilla JavaScript
+* Built with HTML5, CSS3, and JavaScript
 * No heavy frameworks for lightweight performance
 * Fetch API for asynchronous REST communication
 
