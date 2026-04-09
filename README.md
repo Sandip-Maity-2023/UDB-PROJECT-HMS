@@ -51,16 +51,16 @@ project/
 ├── frontend/
 │   ├── index.html
 │   ├── style.css
-│   └── script.js
+│   └── app.js
 │
 ├── backend/
 │   ├── server.js
-│   ├── routes/
-│   ├── models/
-│   └── controllers/
+│   ├── App.js/
+│   ├── .env/
+│ 
 │
-├── config/
-│   └── db.js
+├── api/
+│   └── index.js
 │
 └── README.md
 ```
